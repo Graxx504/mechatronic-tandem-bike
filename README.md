@@ -14,6 +14,8 @@ Harvesting user generated energy through an electric generator and foot actuated
 Powering an electric motor using this harvested energy and transferring it to the wheel using shafts/axles.
 (Optional) Using overhead solar cells as a secondary energy reserve. 
 
+### **Rough Sketch of Proposed Solution**    
+![b17d0762-0bff-4755-9e04-232a36526d4a](https://github.com/user-attachments/assets/3e65ad94-7cc3-483f-9950-72cc23e7fb5f)
 
-        
-
+### **Mechatronic Architecture**
+![be93ab44-a983-41f1-9f39-96b0303d1c98](https://github.com/user-attachments/assets/bbccac04-8dc2-43c1-a68b-af98d01140e9)
