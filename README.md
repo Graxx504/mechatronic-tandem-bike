@@ -1,4 +1,4 @@
-# mechatronic-tandem-bike
+# Mechatronic-Tandem-Bike
 
 ## H-PEV
 
@@ -19,3 +19,30 @@ Powering an electric motor using this harvested energy and transferring it to th
 
 ### **Mechatronic Architecture**
 <img src="https://github.com/user-attachments/assets/bbccac04-8dc2-43c1-a68b-af98d01140e9" width=600>
+
+### **Detailed Sketches**
+<img src="https://github.com/user-attachments/assets/d901feb9-cd08-4ea4-8b3f-faed8d6250ad" width=800>
+
+
+### **Bill Of Materials**
+
+| Serial No.   | Materials   | Quantity   | Cost (per piece)   | Cost   |
+|:------------:|:------------:|:------------:|:------------:|:------------:|
+| 1. | Bicycles | 2 | - | -|
+| 2. | Motor (Rating-1kW, 48V) | 1 | -| -|
+| 3. | Battery (- V, -Ah) | 1 | -|-|
+| 4. | Generator | 1 | -|-|
+| 5. | Cylindrical/Square Pipe for Links (Steering Link and Main Body Link) | - m| -| -|
+
+###### *(Some Specifications need to be decided yet)*
+
+
+
+
+
+
+
+
+
+
+
