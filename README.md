@@ -16,8 +16,6 @@ Powering an electric motor using this harvested energy and transferring it to th
 
 ### **Rough Sketch of Proposed Solution**    
 <img src="https://github.com/user-attachments/assets/3e65ad94-7cc3-483f-9950-72cc23e7fb5f" width=600>
-
-### **Mechatronic Architecture**
 <img src="https://github.com/user-attachments/assets/bbccac04-8dc2-43c1-a68b-af98d01140e9" width=600>
 
 ### **Detailed Sketches**
