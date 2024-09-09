@@ -1,3 +1,10 @@
 Meeting Notes Transcript
 
 02-04-2024
+
+- The speakers discussed using a planetary (or "plantaric") system to avoid concentric axles, where a sun gear, planet gears, and an outer ring are used to transmit power.
+- There was a focus on the challenges of adding a third axle to connect the pedaling mechanism to the rear wheel, similar to a rickshaw design.
+- The speakers explored different design options, including using two motors instead of one, and directly connecting the pedals with a rod instead of a chain.
+- There was an emphasis on not over-constraining the design to increase the chances of finding a feasible, optimized solution, drawing parallels to linear programming concepts.
+- The speakers acknowledged the complexity of the problem and the need to be mindful of timelines, tolerances, and testing the design quickly through prototyping.
+- Action items included designing a basic mechanism to add a third axle by Friday, and getting a preliminary design printed over the weekend for testing.
