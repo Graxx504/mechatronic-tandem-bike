@@ -35,6 +35,10 @@ Powering an electric motor using this harvested energy and transferring it to th
 ###### *(Some Specifications need to be decided yet)*
 
 <img src="https://github.com/user-attachments/assets/91949b41-c8f5-4303-bed4-0f2add311c96" width=600>
+![image](https://github.com/user-attachments/assets/981a9d70-ec36-4f0c-a771-b2016aa8bc66)
+![image](https://github.com/user-attachments/assets/898757c1-d1a8-4c6d-beba-8d190598820c)
+
+
 
 
 
