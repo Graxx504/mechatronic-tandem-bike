@@ -27,8 +27,8 @@ Powering an electric motor using this harvested energy and transferring it to th
 | Serial No.   | Materials   | Quantity   | Cost (per piece)   | Cost   |
 |:------------:|:------------:|:------------:|:------------:|:------------:|
 | 1. | Bicycles | 2 | - | -|
-| 2. | Motor (Rating-x kW, y V) | 1 | -| -|
-| 3. | Battery (- V, -Ah) | 1 | -|-|
+| 2. | Motor (Rating-1 kW, 48 V) | 1 | -| -|
+| 3. | Battery (48 V, -Ah) | 1 | -|-|
 | 4. | Generator | 1 | -|-|
 | 5. | Cylindrical/Square Pipe for Links (Steering Link and Main Body Link) | - m| -| -|
 
